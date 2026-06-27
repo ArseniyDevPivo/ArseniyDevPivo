@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет! Я Арсений Пивоваров 👋
 
-<!--
-**ArseniyDevPivo/ArseniyDevPivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Разработчик** | Студент МТИ | Опыт оптимизации процессов в Wildberries
 
-Here are some ideas to get you started:
+### Обо мне
+- Сейчас учусь на 2 курсе по направлению **Информационные системы и технологии** (профиль — Разработка и тестирование ПО)
+- Имею практический опыт работы на высоконагруженном складе Wildberries (оптимизация процессов, контроль операций, работа с данными)
+- Ищу первую позицию Junior Developer / Intern в WB TECH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Технологии и навыки
+- **Языки:** Python, JavaScript (изучаю)
+- **Инструменты:** Git, SQL, Excel (продвинутый уровень)
+- **Направления:** Backend, Автоматизация, Тестирование ПО, Работа с данными
+
+### Проекты
+(Здесь будут ссылки на репозитории)
+
+- **Складской Telegram-бот** — автоматизация учёта товаров
+- **Excel Parser** — обработка отчётов Wildberries
+- **CRUD-приложение** — система тестирования (курсовая)
+
+### Контакты
+- Telegram: @твой_ник
+- Email: pivovarov.arsenij@inbox.ru
+
+---
+
+**Готов развиваться и приносить пользу команде WB TECH!**
